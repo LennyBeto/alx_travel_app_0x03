@@ -26,7 +26,7 @@ Follow these steps to get the project up and running on your local machine:
 
 - Clone the Repository:
 
-git clone https://github.com/Eve-code93/alx_travel_app_0x00.git
+git clone https://github.com/LennyBeto/alx_travel_app_0x00
 cd alx_travel_app_0x00
 
 - Create and Activate a Virtual Environment:
